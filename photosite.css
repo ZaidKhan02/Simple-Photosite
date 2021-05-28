@@ -1,0 +1,17 @@
+img {
+    width: 30%;
+    margin: calc(10%/6)
+    /*3 pics of 30% each is 90%. 10% is remaining and there are 6 sides, 2 for each pic (right/left)*/
+}
+
+nav {
+    font-weight: bold;
+    text-transform: uppercase;
+    border-bottom: 1px solid grey;
+    margin-left: calc(10%/6);
+    width: 30%;
+    font-family: 'Raleway' sans-serif;
+    font-size: 1.5em;
+}
+
+
